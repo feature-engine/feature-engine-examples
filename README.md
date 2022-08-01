@@ -96,9 +96,9 @@ Thank you!!
 
 ## Feature-engine features in the following resources:
 
-* [Feature Engineering for Machine Learning, Online Course](https://www.udemy.com/course/feature-engineering-for-machine-learning/?referralCode=A855148E05283015CF06)
+* [Feature Engineering for Machine Learning, Online Course](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
-* [Feature Selection for Machine Learning, Online Course](https://www.udemy.com/course/feature-selection-for-machine-learning/?referralCode=186501DF5D93F48C4F71)
+* [Feature Selection for Machine Learning, Online Course](https://www.trainindata.com/p/feature-selection-for-machine-learning)
 
 * [Python Feature Engineering Cookbook](https://www.packtpub.com/data/python-feature-engineering-cookbook)
 
@@ -113,7 +113,6 @@ Thank you!!
 ## Documentation
 
 * [Documentation](http://feature-engine.readthedocs.io)
-* [Home page](https://www.trainindata.com/feature-engine)
 
 ## En Español:
 
