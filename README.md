@@ -13,9 +13,9 @@ In this repo, you will find a lot of examples on how to use Feature-engine's tra
 
 
 ## creation
- * MathematicalCombination
- * CombineWithReferenceFeature
- * CyclicalTransformer - notebook wanted, please contribute
+ * MathFeatures
+ * RelativeFeatures
+ * CyclicalFeatures
 
 ## discretisation
 * EqualFrequencyDiscretiser
@@ -102,7 +102,6 @@ Thank you!!
 
 * [Python Feature Engineering Cookbook](https://www.packtpub.com/data/python-feature-engineering-cookbook)
 
-* [Deployment of Machine Learning Models, Online Course](https://www.udemy.com/course/deployment-of-machine-learning-models/?referralCode=D4FE5EA129FFD203CFF4)
 
 ## Blogs about Feature-engine:
 
@@ -112,10 +111,8 @@ Thank you!!
 
 ## Documentation
 
-* [Documentation](http://feature-engine.readthedocs.io)
+* [Documentation](http://feature-engine.trainindata.com)
 
 ## En Español:
-
-* [Ingeniería de variables para machine learning, Curso Online](https://www.udemy.com/course/ingenieria-de-variables-para-machine-learning/?referralCode=CE398C784F17BD87482C)
 
 * [Ingeniería de variables, MachinLenin, charla online](https://www.youtube.com/watch?v=NhCxOOoFXds)
