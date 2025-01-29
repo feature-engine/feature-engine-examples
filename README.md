@@ -94,24 +94,31 @@ How to contribute:
 
 Thank you!!
 
-## Feature-engine features in the following resources:
+## Feature-engine features in the following resources
 
 * [Feature Engineering for Machine Learning, Online Course](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
 * [Feature Selection for Machine Learning, Online Course](https://www.trainindata.com/p/feature-selection-for-machine-learning)
 
-* [Python Feature Engineering Cookbook](https://www.packtpub.com/data/python-feature-engineering-cookbook)
+* [Feature Engineering for Time Series Forecasting, Online Course](https://www.trainindata.com/p/feature-engineering-for-forecasting)
+
+* [Forecasting with Machine Learning, Online Course](https://www.trainindata.com/p/forecasting-with-machine-learning)
+
+* [Python Feature Engineering Cookbook](https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587)
+
+* [Feature Selection in Machine Learning Book](https://www.trainindata.com/p/feature-selection-in-machine-learning-book)
 
 
-## Blogs about Feature-engine:
+## Blogs about Feature-engine
 
 * [Feature-engine: A new open-source Python package for feature engineering](https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c)
 
 * [Practical Code Implementations of Feature Engineering for Machine Learning with Python](https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd)
 
+
 ## Documentation
 
-* [Documentation](http://feature-engine.trainindata.com)
+* [Documentation](https://feature-engine.trainindata.com)
 
 ## En Español:
 
