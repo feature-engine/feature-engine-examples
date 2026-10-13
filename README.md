@@ -71,6 +71,7 @@ In this repo, you will find a lot of examples on how to use Feature-engine's tra
  * SklearnTransformerWrapper plus Scikit-learn's SimpleImputer
 
 ## selection
+ * [Recursive Feature Elimination](selection/Recursive-Feature-Elimination.ipynb) - recursively selects features while evaluating classification performance
  * notebooks wanted, please contribute
 
 
